@@ -1,4 +1,4 @@
-//inserting a node in the beginning of a linked list
+//inserting a node in the end of a linked list
 #include<bits/stdc++.h>
 using namespace std;
 
